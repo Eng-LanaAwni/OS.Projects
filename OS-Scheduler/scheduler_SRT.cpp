@@ -1,6 +1,5 @@
-//Lana Alotoom 144806
-//Eman Edries  152531
-//Saba Mustafa 140454
+//Lana Alotoom 
+//Eman Edries  
 #include <iostream>
 #include <string>
 #include <algorithm>
